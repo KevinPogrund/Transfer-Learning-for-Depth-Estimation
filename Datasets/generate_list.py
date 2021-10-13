@@ -10,7 +10,6 @@ raw_pics = os.listdir(raw_dir)
 gt_pics = os.listdir(gt_dir)
 with open("{}.txt".format(dateset), 'w') as f:
     if dateset == "kitti":
-        # f = open("{}.txt".format(dateset), 'w')
         for i in range(len(raw_pics)):
             f.write("{}/{} {}/{} 721.533\n".format(raw_dir, raw_pics[i], gt_dir, gt_pics[i]))
     else:
