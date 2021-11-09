@@ -30,6 +30,7 @@ I had issues saving the trained model so there is only a quantitative analysis
    | Trained| 0.840 | 0.970 | 0.989 |  0.104  | 0.400  | 3.227 | 0.178 |
 
 #### LapDepth
+![LapDepth](LapDepth.png "LapDepth")
 
  |  LapDepth  |  a1   |  a2   |  a3   | Abs Rel | Sq Rel | RMSE  | RMSE log |
    | :---: | :---: | :---: | :---: | :-----: | :----: | :---: | :------: |
@@ -37,6 +38,7 @@ I had issues saving the trained model so there is only a quantitative analysis
    | Trained| 0.927 | 0.982 | 0.993 |  0.083  | 0.287  | 2.289 | 0.137 |
 
 #### BTS
+![BTS](BTS.png "BTS")
 
  |  BTS  |  a1   |  a2   |  a3   | Abs Rel | Sq Rel | RMSE  | RMSE log |
    | :---: | :---: | :---: | :---: | :-----: | :----: | :---: | :------: |
