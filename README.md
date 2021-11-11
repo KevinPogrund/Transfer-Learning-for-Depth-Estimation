@@ -44,3 +44,8 @@ I had issues saving the trained model so there is only a quantitative analysis
    | :---: | :---: | :---: | :---: | :-----: | :----: | :---: | :------: |
    | Untrained|0.035| 0.070 | 0.121 |  2.007  | 18.038  | 10.583 | 1.102 |
    | Trained| 0.913 | 0.983 | 0.994 |  0.116  | 0.291  | 2.318 | 0.155 |
+
+## Forked Repositories
+- [AdaBins](https://github.com/KevinPogrund/AdaBins)
+- [LapDepth](https://github.com/KevinPogrund/LapDepth-release)
+- [BTS](https://github.com/KevinPogrund/bts) 
